@@ -1121,3 +1121,17 @@ body {
     line-height: 2.5rem;
   }
 }
+
+@media (min-width: 976px) {
+  .lg\:block {
+    display: block;
+  }
+
+  .lg\:flex {
+    display: flex;
+  }
+
+  .lg\:hidden {
+    display: none;
+  }
+}
